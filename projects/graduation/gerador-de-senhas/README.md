@@ -1,6 +1,18 @@
-# Graduação Sistemas para internet
+# Graduação Sistemas para internet - Disciplina Front-end
+#### Tecnologias utilziadas
 
-## Materia: Front-end
+- Vanilla Javascript
+- Javascript Proxy
+- http-server
+- Native Web Components
+  - Custom Elements
+  - Shadow Dom
+  - Javascript modules
+  - Html Templates
+
+### Como rodar
+
+Para executar este projeto em "localhost4200" basta rodar "npm install" e depois "npm run server";
 
 ## Contexto
 
